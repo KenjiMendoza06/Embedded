@@ -38,6 +38,11 @@ Instant updates ensure users are aware of parking space changes as they happen, 
 Future Scalability:
 
 The project lays the foundation for future enhancements, such as user authentication and integration with additional sensors for a comprehensive smart city solution.
+
 Project Impact:
 
 The Smart Parking Mobile App with Hardware Integration aims to not only simplify the parking experience for users but also contribute to the broader landscape of smart city solutions. By combining software and hardware seamlessly, the project sets a precedent for efficient and user-centric urban infrastructure.
+
+![404691567_875359974073680_4414340600703436052_n](https://github.com/KenjiMendoza06/Embedded/assets/140770300/06e9942c-6cb6-4bf5-8aa5-076093086f9b)
+![404081936_902844498017192_6091568373933227774_n](https://github.com/KenjiMendoza06/Embedded/assets/140770300/7de245f4-a756-451f-9bbf-5f4d29720bbe)
+
